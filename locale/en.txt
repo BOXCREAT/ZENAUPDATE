@@ -1,0 +1,14 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = ZENA
+
+## Media
+
+### Title
+panorama_522414BA_58A3_D21B_41A7_8F20F0D1C449.label = LIVING
+panorama_5351C09D_58A3_D21E_41C6_0FD0EEF33A35.label = FOYER
